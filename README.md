@@ -19,7 +19,20 @@
 * **Traditional R&D:** ~1–5 samples per week.
 * **Impact:** A single unit possesses the exploratory bandwidth of **10 national research institutes working for 6 months**, condensed into a single afternoon.
 
-### 2. Core Physics: The Deterministic Variable Mapping
+### 2. Engineering Implementation: The Multi-Axis Centrifugal Matrix
+
+The system is realized through a high-precision, nested-shell assembly that functions as a high-G thermodynamic reactor:
+
+* **The Reactor Core (Cellular Partitioning):** The system utilizes a series of high-strength steel tubes arranged in a concentric "tree-ring" configuration. The interior of each tube is compartmentalized into hundreds of independent, honeycomb-like reaction chambers using mechanical bulkheads to ensure physical isolation under extreme forces.
+
+* **Sample Loading (The Scanning Logic):** Each axial segment is loaded with the same target material. The objective is not to test different materials in one tube, but to subject a single material to every possible permutation of its three-dimensional phase map in a single run.
+
+* **Environmental Gradients (P/T Mapping):** * **Thermal Gradient:** External induction coil arrays are configured to generate a precise, continuous axial temperature gradient, ranging from ambient temperature to several hundred degrees Celsius across the length of the tube.
+* **Pressure Gradient:** Ultra-high-speed rotation generates a continuous radial pressure gradient via centrifugal force, increasing from the inner axis to the outer periphery.
+
+* **Vectorial Configuration (Variable Decoupling):** The system employs a **Three-Unit Matrix** with distinct orientations: **Horizontal, Left-Skewed, and Right-Skewed.** By altering the tilt angle relative to the centrifugal vector, we decouple the variables. This allows the same material to simultaneously traverse multiple paths: "High P-High T to Low P-Low T," "Constant High P with Variable T," and "High P-Low T to Low P-High T."
+
+### 3. Core Physics: The Deterministic Variable Mapping
 
 The brilliance of the system lies in its **Minimalist Data Acquisition**. Because the geometry of the "6-3-10" array is fixed, the entire parameter space is determined by only two external "knobs":
 
@@ -28,7 +41,7 @@ The brilliance of the system lies in its **Minimalist Data Acquisition**. Becaus
 
 By recording only these two values, every cubic millimeter of material in the 180 partitions is assigned a unique, high-precision $(P, T, C)$ coordinate. **The experiment is no longer a "black box"; it is a searchable 3D database.**
 
-### 3. Engineering Innovations
+### 4. Engineering Innovations
 
 #### A. Asymmetric Thermal Control (Cryogenic to Plasma)
 
@@ -48,7 +61,7 @@ Each tube is a **Nested Multi-Core Assembly**:
 * **Mechanical Bulkheads:** Physical barriers prevent material migration or fluid mixing under extreme G-force.
 * **Configuration:** 6 Tubes $\times$ 10 Longitudinal Sections $\times$ 3 Concentric Layers = **180 Independent Reaction Chambers**.
 
-### 4. The Automated "Multi-Stage Funnel"
+### 5. The Automated "Multi-Stage Funnel"
 
 Discovery is automated via a multi-tier screening process:
 
@@ -57,7 +70,7 @@ Discovery is automated via a multi-tier screening process:
 3. **Level 2 (Hardness/Chemistry):** Vickers hardness and LIBS analysis automatically categorize "candidates."
 4. **Level 3 (Deep Analysis):** Only the "black swan" materials move to SEM/XRD characterization.
 
-### 5. Evolution & Circular Economy
+### 6. Evolution & Circular Economy
 
 * **Material Scaling:** By upgrading from basic steel to **tungsten-carbide or carbon-fiber composite tubes**, the "Discovery Map" expands exponentially into GPa-level pressures and thousands of degrees.
 * **Zero-Cost "War-to-Sustain-War":** * **Foundry Fee:** AI teams pay you to verify their formulas.
@@ -89,16 +102,26 @@ Discovery is automated via a multi-tier screening process:
 * **传统实验室：** 每周产出约 1–5 组样本。
 * **震撼结论：** 单台设备一个下午的探索带宽，相当于 **10个国家级研究所连续工作6个月** 的总和。
 
-### 2. 核心物理逻辑：确定性变量映射
+### 2. 工程实现：多轴离心矩阵系统
 
-本系统的天才之处在于其**极简的数据采集模型**。由于“6-3-10”阵列的几何结构是预设且固定的，整个实验的变量空间仅由两个外部“旋钮”决定：
+该系统通过高精度嵌套套壳结构实现，其具体工程逻辑如下：
+
+* **反应器核心（蜂巢式隔断）：** 系统采用多根高强度钢管组成的年轮式嵌套结构。管子内部通过机械挡板被分割成上百个独立的蜂巢状反应舱，确保在超高重力场下各反应环境物理隔离，互不干扰。
+* **装料逻辑（三维扫描）：** 每个轴向区间装填同一种待测材料。我们的目的不是在一根管子里测试多种材料，而是让同一种材料在一次运行中遍历其三维相图中的所有可能性，激发其全部潜在相态。
+* **物理环境模拟（温压耦合）：** * **热梯度：** 通过外部非均匀感应线圈精确控温，在钢管轴向上产生从室温到数百摄氏度的连续温度梯度。
+* **压力梯度：** 通过滚筒的高速旋转，利用离心力在样品上产生从中心轴线到外圆周边缘连续变化的压力梯度。
+* **姿态控制（全变量扫描）：** 我们将三台滚筒设备分别设置为**水平、左斜、右斜**三种姿态。通过改变旋转矢量与重力矢量的夹角，实现变量解耦。这使得同一种材料能同时经历“高温高压到低温低压”、“恒定高压下的温度梯度”、“高温低压到低温高压”等无数种复杂的相空间路径。
+
+### 3. 核心物理逻辑：确定性变量映射
+
+本系统的天才之处在于其**极简的数据采集模型**。由于阵列的几何结构是预设且固定的，整个实验的变量空间仅由两个外部“旋钮”决定：
 
 1. **电机转速 ($\omega$):** 决定了精确的径向压力梯度 $P(r)$。
 2. **线圈设定温度 ($T_{set}$):** 映射出轴向的热梯度剖面 $T(x)$。
 
 只需记录转速和加热功率，流水线切出的 180 个分区中的每一立方毫米物质都拥有唯一的 $(P, T, C)$ 坐标。**这让实验不再是随机的“盲盒”，而是一个可检索、可溯源的三维数据库。**
 
-### 3. 工程创新与升级
+### 4. 工程创新与升级
 
 #### A. 非对称热控系统（极寒至恒星表面）
 
@@ -118,7 +141,7 @@ Discovery is automated via a multi-tier screening process:
 * **物理隔断：** 内部设有高强度的机械挡板和密封垫片，防止极高G力下材料的流动或交叉污染。
 * **配置：** 6根主管 $\times$ 10个纵向段 $\times$ 3层同心管 = **180个独立反应室**。
 
-### 4. 自动化“多级漏斗”筛选
+### 5. 自动化“多级漏斗”筛选
 
 通过自动化流水线实现“沙里淘金”：
 
@@ -127,7 +150,7 @@ Discovery is automated via a multi-tier screening process:
 3. **二级（性能确认）：** 自动硬度计与激光光谱（LIBS）进行组分与硬度分析。
 4. **三级（深度鉴定）：** 仅对通过前两轮“海选”的 1% 样本进行电镜显微分析。
 
-### 5. “以战养战”与阶梯进化
+### 6. “以战养战”与阶梯进化
 
 * **材料性能倍增：** 随着利润提升，将钢管升级为**碳化钨或碳纤维复合材料管**，扫描范围将指数级扩张至 GPa 级压力和数千度高温。
 * **商业闭环：** * **算力出租：** 为AI研发团队提供物理验证服务，收取的加工费覆盖电费与设备折旧。

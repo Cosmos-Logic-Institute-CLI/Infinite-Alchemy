@@ -6,7 +6,7 @@
 
 **Project Status:** Open-Core Architecture for Global Materials Sovereignty
 
-[Jump to Chinese Version / 跳转至中文版](#chinese-version)
+[Read in English](#infinite-precision) | [跳转到中文](#无限炼金)
 
 ---
 
@@ -71,9 +71,9 @@ Discovery is automated via a multi-tier screening process:
 
 <div id="chinese-version"></div>
 
-# 无限炼金 (Infinite Alchemy)
+# 无限炼金
 
-## 副标题：基于全变量解耦扫描与高通量物理场耦合的物质进化引擎
+## 基于全变量解耦扫描与高通量物理场耦合的物质进化引擎
 
 **开源许可协议：** [CC BY-NC-SA 4.0](https://www.google.com/search?q=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
@@ -102,7 +102,7 @@ Discovery is automated via a multi-tier screening process:
 
 #### A. 非对称热控系统（极寒至恒星表面）
 
-系统不仅可以加热，还可引入非对称控制。通过感应线圈的非均匀分布结合液氮冷却或等离子体射流，温控范围可从 **极低温度（接近绝对零度）跨越至恒星表面温度（$>5000\text{K}$）**。这使得在一次扫描中捕获奇特的相变点和超高温陶瓷成为可能。
+系统不仅可以加热，还可引入非对称控制。通过感应线圈的非均匀分布结合液氮冷却或等离子体射流，温控范围可从 **极低温度（接近绝对零度）跨越至恒星表面温度($>5000\text{K}$)**。这使得在一次扫描中捕获奇特的相变点和超高温陶瓷成为可能。
 
 #### B. 交变式安装逻辑（全频率扫描）
 

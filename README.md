@@ -77,6 +77,63 @@ Discovery is automated via a multi-tier screening process:
 * **Recycling:** Standard tubes are melted down and recast after each run, turning hardware into "recyclable ink."
 * **The Prize:** You keep the data from the "Stochastic" partitions, discovering new materials on someone else's dime.
 
+---
+
+## **The "Ghetto Gradient Reactor": Full Protocol**
+
+**Objective:**  
+To validate the "full-gradient field" concept within 24 hours using minimal, off-the-shelf components. This is not about finesse. This is about brute-force proof.
+
+**Core Philosophy:**  
+If a concept is fundamentally powerful, it should bear fruit even in its crudest form. We skip all automation and "smart" systems. We go straight for the physical evidence.
+
+**Bill of Materials (The Cheapest Lab):**
+*   **1 x** Cordless Drill (or any motor with stable rotation)
+*   **1 x** Section of Seamless Steel Tube (approx. 30-50cm length, sealed at both ends)
+*   **1 x** Heating Source (Resistance coil, blowtorch, or even a powerful soldering iron)
+*   **1 x** Cooling Source (Bucket of ice water)
+*   **Sample Materials** (e.g., Tin, Bismuth, or any low-melting-point metal with clear phase changes)
+*   **Recording Tools** (Smartphone camera, optional thermal imaging camera)
+*   **A Saw** (To cut the tube open at the end)
+
+**Experimental Protocol:**
+
+1.  **Assembly:**  
+    Fix the steel tube horizontally to the drill's chuck. Ensure it's balanced. Fill the tube with your sample material (small pieces or powder). Seal the ends tightly.
+
+2.  **Gradient Creation:**  
+    Apply heat to ONE END of the rotating tube using your heating source. Immerse or actively cool the OTHER END in the ice bath.  
+    *   **Heat Source =** Defines your maximum temperature boundary.
+    *   **Cold Source =** Defines your minimum temperature boundary.
+    *   **Rotation via Drill =** Creates a continuous centrifugal pressure gradient from the center outward.
+
+3.  **Run:**  
+    Activate the drill to spin the tube. Maintain heating/cooling for a set period (e.g., 30-60 mins) to allow the system to reach a steady-state **thermal gradient** along the tube's length, while under a **pressure gradient** across its radius.
+
+4.  **Observation (Real-time):**  
+    Use a thermal camera (or temperature strips) to visually confirm the establishment of a smooth temperature gradient along the tube's surface. This gradient is your first piece of evidence.
+
+5.  **The Critical Moment - Post-Mortem Analysis:**  
+    Stop the drill. Let it cool. Clamp the tube and **CUT IT OPEN LENGTHWISE WITH THE SAW.**  
+    This is the only "analysis" step you need. You are not measuring points; you are reading a landscape.
+
+6.  **Data Readout:**  
+    Inspect the interior. You will see a **continuous physical record** of your material's state across the applied gradients.
+    *   **Where it melted and re-solidified** = Phase transition boundary at that specific (T, P) coordinate.
+    *   **Changes in crystal structure, texture, or color** along the tube = A direct visual map of material properties vs. conditions.
+
+**The Declaration:**
+
+This is Day One evidence.  
+We did not build a robot. We built a question. The question is: **"If a $100 setup can generate a continuous map of material behavior in hours, what is the multi-million-dollar lab with its one-at-a-time 'alchemy' actually optimizing for?"**  
+We are not open-sourcing a product. We are open-sourcing a **provocation**.  
+Replicate this. Improve it. Or use the data from this crude pipe to challenge the very foundation of iterative materials discovery.  
+The revolution starts not when it's polished, but when it works.
+
+**Join the Ghetto Revolution.**
+
+---
+
 **Format:**
 > [ZengHao], *Infinite Alchemy: The Multi-Dimensional Spatiotemporal Scanning Engine*, GitHub Repository, 2026.
 
@@ -156,7 +213,64 @@ Discovery is automated via a multi-tier screening process:
 * **商业闭环：** * **算力出租：** 为AI研发团队提供物理验证服务，收取的加工费覆盖电费与设备折旧。
 * **零损耗：** 钢管切片后可**回炉重熔**循环使用。
 * **最终奖励：** 你在订单间隙进行的“随机炼金”所发现的每一项新材料，都是纯粹的资产。
-  
+
+---
+
+## **“作坊式梯度反应炉”：完整实验方案**
+
+**目标：**  
+使用极易获取的部件，在24小时内验证“全梯度场”概念。不求精致，只求暴力验证。
+
+**核心哲学：**  
+如果一个概念从根本上足够强大，那么即使以其最粗糙的形式呈现，它也必然能结出果实。我们跳过所有自动化和“智能”系统，直接追寻物理证据。
+
+**物资清单（最便宜的实验室）：**
+*   **1个** 手持电钻（或任何能稳定旋转的电机）
+*   **1段** 无缝钢管（约30-50厘米长，两端密封）
+*   **1个** 热源（电阻加热线圈、喷灯，或甚至一把大功率电烙铁）
+*   **1个** 冷源（一桶冰水）
+*   **样品材料**（如锡、铋，或任何相变明显、熔点低的金属）
+*   **记录工具**（手机摄像头，可选热成像仪）
+*   **一把锯子**（用于最后锯开钢管）
+
+**实验步骤：**
+
+1.  **组装：**  
+    将钢管水平固定在电钻的卡盘上，确保平衡。将样品材料（小块或粉末）装入钢管并严格密封两端。
+
+2.  **创建梯度：**  
+    用热源加热旋转钢管的**一端**。将**另一端**浸入冰水浴中持续冷却。
+    *   **热源 =** 定义了你的最高温度边界。
+    *   **冷源 =** 定义了你的最低温度边界。
+    *   **电钻旋转 =** 从中心到边缘产生连续的离心压力梯度。
+
+3.  **运行：**  
+    启动电钻，使钢管旋转。维持加热/冷却一段时间（例如30-60分钟），让系统在径向压力梯度的作用下，沿钢管长度方向达到稳态的**热梯度**。
+
+4.  **观察（实时）：**  
+    使用热成像仪（或温度贴片）直观确认钢管表面形成了平滑的温度梯度。这本身就是第一个证据。
+
+5.  **关键时刻 - 事后分析：**  
+    关闭电钻，让其冷却。夹住钢管，**用锯子将其纵向锯开**。  
+    这是你唯一需要的“分析”步骤。你不是在测量孤立的点，而是在解读一整片景观。
+
+6.  **数据读取：**  
+    检查钢管内部。你会看到你的材料在施加的梯度下状态的**连续物理记录**。
+    *   **哪里熔化并重新凝固** = 那个特定（温度，压力）坐标下的相变边界。
+    *   **沿钢管晶体结构、纹理或颜色的变化** = 材料性能随条件变化的直接视觉图谱。
+
+**行动宣言：**
+
+这是第一天的证据。  
+我们造的不是一个机器人，而是一个质问。这个质问是：**“如果一个价值100美金的装置能在几小时内生成材料行为的连续图谱，那么那些耗资数百万、一次只做一个‘炼金’实验的实验室，究竟在优化什么？”**  
+我们开源的不是一个产品，而是一个**挑衅**。  
+复制它。改进它。或者用这根粗糙钢管里产出的数据，去挑战迭代式材料发现整个范式的基础。  
+革命，始于其可行之时，而非完美之日。
+
+**加入这场“作坊革命”。**
+
+---
+
 **Format:**
 > [曾皓], *Infinite Alchemy: The Multi-Dimensional Spatiotemporal Scanning Engine*, GitHub Repository, 2026.
 

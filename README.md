@@ -130,7 +130,7 @@ We are not open-sourcing a product. We are open-sourcing a **provocation**.
 Replicate this. Improve it. Or use the data from this crude pipe to challenge the very foundation of iterative materials discovery.  
 The revolution starts not when it's polished, but when it works.
 
-**Join the Ghetto Revolution.**
+Please proceed with your discussions in confidence. After all, the landscape of common materials and their combinations is vast. Even the first pioneer can only generate, at most, a hundred continuous and complete phase diagrams in a single day. We still have ample time.
 
 ---
 
@@ -267,7 +267,7 @@ The revolution starts not when it's polished, but when it works.
 复制它。改进它。或者用这根粗糙钢管里产出的数据，去挑战迭代式材料发现整个范式的基础。  
 革命，始于其可行之时，而非完美之日。
 
-**加入这场“作坊革命”。**
+请放心的进行研讨，毕竟常见的材料与组合数量浩瀚，即便是第一个探索者，一天之内也仅能生成上百张连续的完整相图。我们的时间，依然充裕。
 
 ---
 

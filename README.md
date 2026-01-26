@@ -1,6 +1,6 @@
-# Infinite Alchemy: The Multi-Dimensional Spatiotemporal Scanning Engine
+## Infinite Alchemy: The Multi-Dimensional Spatiotemporal Scanning Engine
 
-## A Decentralized Paradigm for Extreme High-Throughput Matter Evolution
+### A Decentralized Paradigm for Extreme High-Throughput Matter Evolution
 
 **Open Source License:** [CC BY-NC-SA 4.0](https://www.google.com/search?q=https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -156,9 +156,9 @@ Please proceed with your discussions in confidence. After all, the landscape of 
 
 <div id="chinese-version"></div>
 
-# 无限炼金
+## 无限炼金
 
-## 基于全变量解耦扫描与高通量物理场耦合的物质进化引擎
+### 基于全变量解耦扫描与高通量物理场耦合的物质进化引擎
 
 **开源许可协议：** [CC BY-NC-SA 4.0](https://www.google.com/search?q=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 

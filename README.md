@@ -2,7 +2,7 @@
 
 ### A Decentralized Paradigm for Extreme High-Throughput Matter Evolution
 
-**Open Source License:** [CC BY-NC-SA 4.0](https://www.google.com/search?q=https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**Open Source License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 [Read in English](#infinite-precision) | [跳转到中文](#无限炼金)
 
@@ -154,13 +154,11 @@ Please proceed with your discussions in confidence. After all, the landscape of 
 ---
 
 
-<div id="chinese-version"></div>
-
 ## 无限炼金
 
 ### 基于全变量解耦扫描与高通量物理场耦合的物质进化引擎
 
-**开源许可协议：** [CC BY-NC-SA 4.0](https://www.google.com/search?q=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+**开源许可协议：** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 

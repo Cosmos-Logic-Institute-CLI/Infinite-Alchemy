@@ -2,7 +2,7 @@
 
 ### A Decentralized Paradigm for Extreme High-Throughput Matter Evolution
 
-![Screenshot_20260131_085841](https://github.com/user-attachments/assets/f17d2fbc-de41-40ac-8adb-25ab5e6142f6)
+![Screenshot_20260131_193757](https://github.com/user-attachments/assets/31095028-9a5d-4027-9ff4-4414cb0c73a1)
 
 
 **Open Source License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

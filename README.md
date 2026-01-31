@@ -64,20 +64,6 @@ I didn't do precision math. I figured if the scan range is wide enough, it will 
 
 * To analyze a specific "interesting" region found in the coarse scan: Reduce the inclination angle and apply precise temperature control. This creates a micro-gradient field, achieving a **1000x magnification in regional precision**.
 
----
-
-**A Friendly Note on Our License**
-
-To protect the spirit of open exploration, this project is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)** license. Our primary goal is to prevent large-scale commercial entities from patenting or monopolizing this community-driven idea without contribution.
-
-**However, to our fellow builders and pioneers, our stance is open and encouraging:**
-
-1.  **For Individuals, Academics, Researchers, and Hobbyists:** You are heartily welcomed to use, modify, and build upon this design for learning, research, and personal projects.
-2.  **For Developers & Makers building prototypes, testing, and sharing improvements:** We consider you **core collaborators**. Your practical work to validate and advance this design is not considered "commercial use" in our view. We want to see your builds and learn from your results.
-3.  **For Teams or Startups with clear commercial interests:** We welcome you too! The "NonCommercial" clause is not meant to stop innovation but to ensure fair collaboration. **If you have a serious plan to develop a product or service based on this project, please contact us directly at [github].** We are happy to discuss granting a specific, free commercial-use license. Our mission is to see this idea materialize, not to create unnecessary barriers.
-
-Let's build the future, together.
-
 **I’ve been thinking about the "Luck" factor in material discovery.** Everyone knows that **LK-99** (and similar candidates) failed to replicate in most labs because the required temperature and pressure conditions are extremely narrow—a tiny "sweet spot" in a massive phase diagram. Traditional discrete testing is like trying to hit a fly with a needle in a dark room.
 
 **But what happens if we use the "Steel Pipe Protocol"?**
@@ -91,6 +77,20 @@ If you load the LK-99 precursor into this 500 CNY scanner, **doesn't the reactio
 * You aren't "searching" for the phase anymore; you are **trapping** it on a physical strip.
 
 **Is it theoretically possible that one 10-day scan with a $70 motor is equivalent to 10,000 discrete lab experiments?** If so, why are we still debating the "replicability" of these materials? Just scan the entire probability field and see what sticks.
+
+---
+
+**A Friendly Note on Our License**
+
+To protect the spirit of open exploration, this project is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)** license. Our primary goal is to prevent large-scale commercial entities from patenting or monopolizing this community-driven idea without contribution.
+
+**However, to our fellow builders and pioneers, our stance is open and encouraging:**
+
+1.  **For Individuals, Academics, Researchers, and Hobbyists:** You are heartily welcomed to use, modify, and build upon this design for learning, research, and personal projects.
+2.  **For Developers & Makers building prototypes, testing, and sharing improvements:** We consider you **core collaborators**. Your practical work to validate and advance this design is not considered "commercial use" in our view. We want to see your builds and learn from your results.
+3.  **For Teams or Startups with clear commercial interests:** We welcome you too! The "NonCommercial" clause is not meant to stop innovation but to ensure fair collaboration. **If you have a serious plan to develop a product or service based on this project, please contact us directly at [github].** We are happy to discuss granting a specific, free commercial-use license. Our mission is to see this idea materialize, not to create unnecessary barriers.
+
+Let's build the future, together.
 
 ---
 

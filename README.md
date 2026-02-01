@@ -2,7 +2,7 @@
 
 ### A Decentralized Paradigm for Extreme High-Throughput Matter Evolution
 
-![Screenshot_20260131_193757](https://github.com/user-attachments/assets/31095028-9a5d-4027-9ff4-4414cb0c73a1)
+![Screenshot_20260201_195050](https://github.com/user-attachments/assets/4a2cd7e8-01e1-494d-af88-e3ed24636aec)
 
 
 **Open Source License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -83,9 +83,18 @@ If you load the LK-99 precursor into this 500 CNY scanner, **doesn't the reactio
 Most researchers discard "failed" experiments as noise. In our protocol, **there is no such thing as failure—only unprocessed coordinates in the phase space.** We are introducing an AI-driven synthesis engine. Even if your 10-day scan doesn't yield a room-temperature superconductor, your data is invaluable. By feeding the "non-superconducting" phase maps, gradients, and spectroscopic results into a centralized Neural Network, we are performing a **Full-Domain Inverse Mapping**.
 
 * **Logic:** The AI doesn't just learn what *is* a superconductor; it learns with extreme precision what *is not*. By eliminating the "Impossible Zones" mapped by hundreds of distributed scanners, the AI will mathematically force the "Optimal Phase" (the Superconductor) to reveal itself through the remaining convergence points.
-* **Action:** If your scan results are chaotic, fragmented, or "dull," do not throw them away. Upload the raw data. We are training the first **Entropy-Driven Foundation Model** for material synthesis.
 
-**While others are looking for a needle in a haystack, we are burning the haystack with AI to leave only the needle.**
+**Statement of Physical Determinism**
+
+**This protocol is engineered upon the following physical certainties:**
+
+1. **Continuous Gradient Fields:** The material is mathematically guaranteed to traverse every  state within the defined gradient boundaries.
+2. **Deterministic Capture:** If the target phase exists within the scanning range, its manifestation is a physical necessity, not a probability.
+3. **Data Integrity:** Regardless of whether the specific target phase is identified, the result is a complete and high-fidelity mapping of the phase space.
+4. **Phase Space Constraint:** Every data point generated serves as a deterministic constraint on the material's structural possibilities.
+
+**This is not an experiment that "might succeed."**
+**This is a physical actuator that "will inevitably produce complete data."**
 
 ---
 
@@ -320,9 +329,18 @@ Please proceed with your discussions in confidence. After all, the landscape of 
 我们正在引入一套 AI 驱动的合成引擎。即使你的 10 天扫描没有直接产生室温超导体，你的数据依然具有无上价值。通过将那些“非超导”的相图、梯度参数和光谱结果输入中心化的神经网络，我们正在进行一项**全域逆向映射（Inverse Mapping）**。
 
 * **核心逻辑：** AI 不仅仅是在学习什么是超导体，它更是在以极高的精度学习**“什么不是超导体”**。通过排除掉由全球数百个扫描节点共同标记的“不可能区域”，AI 将在数学上强制“最优相”（即超导体）在剩下的收敛点中现身。
-* **行动建议：** 如果你的扫描结果是混乱的、破碎的、或者看起来“平淡无奇”，请不要扔掉它。上传这些原始数据。我们正在训练全球第一个**“熵增驱动型材料大模型”**。
 
-**当别人还在草堆里找针时，我们正在用 AI 烧掉整个草堆，让那根针无处遁形。**
+**物理确定性声明**
+
+**本方案基于以下物理确定性：**
+
+1. **连续梯度场：** 材料必然经历梯度场内所有的  状态。
+2. **必然捕获：** 如果目标材料相存在于扫描范围内，其出现是物理上的必然。
+3. **完整性：** 无论是否发现特定目标相，最终都将获得完整的相空间映射数据。
+4. **确定性约束：** 所有产生的数据都是对材料相空间结构的确定性约束。
+
+**这不是一个“可能成功”的实验。**
+**这是一个“必然产生完整数据”的物理执行器。**
 
 ---
 

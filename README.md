@@ -11,6 +11,8 @@
 
 ---
 
+> **"Infinite Alchemy" transcends its physical manifestation; it is a fundamental methodology and a novel cognitive paradigm. This framework can be seamlessly integrated into experimental architectures across material science, synthetic chemistry, pharmacology, and synthetic biology, shifting the research focus from stochastic trial-and-error to systematic spatiotemporal scanning.**
+
 *A Theoretical Inquiry: Can a $70 Motor + Steel Pipe achieve Full-Frequency Scanning?**
 
 I am not a professional scientist, and I honestly don't fully understand the complex math behind modern physics. However, while designing a simple engine, I stumbled upon a structure that makes me wonder: **Is it possible that we’ve made material science unnecessarily difficult?**
@@ -251,6 +253,8 @@ Please proceed with your discussions in confidence. After all, the landscape of 
 **开源许可协议：** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
+
+> **“无限炼金”不应仅被视为一种实验装置，其本质是一套普适性的科研方法论与思维范式。该框架可无缝迁移至材料科学、合成化学、创新药研发及合成生物学等多个领域，实现从“离散试错”向“全域时空扫描”的根本性转变。**
 
 **一个理论疑问：500块钱的电机+钢管，真的能实现全频段扫描吗？**
 

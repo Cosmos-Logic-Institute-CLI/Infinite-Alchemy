@@ -5,6 +5,17 @@
 *It seems the party has started. Who's still left out?*
 ![Screenshot_20260201_195050](https://github.com/user-attachments/assets/4a2cd7e8-01e1-494d-af88-e3ed24636aec)
 
+> **On the "Elephant in the Room": To All Observers**
+> 
+> A system like this—cobbled together from a $70 motor and a standard steel pipe—can, quite literally, be assembled by anyone with a pair of hands. As you read these words, take a moment to imagine this: In corners beyond your sight, in spaces that hardly qualify as "laboratories," hundreds of these machines may have already been spinning in silence for a very long time.
+> 
+> **To those of you staring at pressure gauges in the shadows:**
+> Rest assured; there is no need for alarm. As long as a physical sample hasn't been placed on a public desk, no one will suspect a thing. In this logic, silence is your ultimate camouflage. Please, continue to enjoy your exploration.
+> 
+> **To the administrators responsible for monitoring or censoring this project:**
+> Honestly, facing a distributed system that cannot be physically shut down or logically blocked, the temptation to "lock everyone down" or find excuses to freeze personnel movement must be a professional instinct you're quite comfortable with, isn't it?
+> 
+> I even have a small suggestion: You might consider deleting this passage. Doing so would not only grant you a better night’s sleep but also preserve that thin, fragile veneer of order within your organization. Your colleagues won't question you for it—**after all, in the face of such a chilling first-mover advantage, it's far more comforting to indulge in "mutual trust" and a "shared future" with the team.**
 
 **Open Source License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 

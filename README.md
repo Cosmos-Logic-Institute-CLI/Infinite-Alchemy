@@ -2,21 +2,6 @@
 
 ### A Decentralized Paradigm for Extreme High-Throughput Matter Evolution
 
-*It seems the party has started. Who's still left out?*
-![Screenshot_20260201_195050](https://github.com/user-attachments/assets/4a2cd7e8-01e1-494d-af88-e3ed24636aec)
-
-> **On the "Elephant in the Room": To All Observers**
-> 
-> A system like this—cobbled together from a $70 motor and a standard steel pipe—can, quite literally, be assembled by anyone with a pair of hands. As you read these words, take a moment to imagine this: In corners beyond your sight, in spaces that hardly qualify as "laboratories," hundreds of these machines may have already been spinning in silence for a very long time.
-> 
-> **To those of you staring at pressure gauges in the shadows:**
-> Rest assured; there is no need for alarm. As long as a physical sample hasn't been placed on a public desk, no one will suspect a thing. In this logic, silence is your ultimate camouflage. Please, continue to enjoy your exploration.
-> 
-> **To the administrators responsible for monitoring or censoring this project:**
-> Honestly, facing a distributed system that cannot be physically shut down or logically blocked, the temptation to "lock everyone down" or find excuses to freeze personnel movement must be a professional instinct you're quite comfortable with, isn't it?
-> 
-> I even have a small suggestion: You might consider deleting this passage. Doing so would not only grant you a better night’s sleep but also preserve that thin, fragile veneer of order within your organization. Your colleagues won't question you for it—**after all, in the face of such a chilling first-mover advantage, it's far more comforting to indulge in "mutual trust" and a "shared future" with the team.**
-
 **Open Source License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 [Read in English](#infinite-precision) | [跳转到中文](#无限炼金)
@@ -132,20 +117,6 @@ We treat every "failed" scan as a high-value constraint on the material's existe
 
 ---
 
-**A Friendly Note on Our License**
-
-To protect the spirit of open exploration, this project is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)** license. Our primary goal is to prevent large-scale commercial entities from patenting or monopolizing this community-driven idea without contribution.
-
-**However, to our fellow builders and pioneers, our stance is open and encouraging:**
-
-1.  **For Individuals, Academics, Researchers, and Hobbyists:** You are heartily welcomed to use, modify, and build upon this design for learning, research, and personal projects.
-2.  **For Developers & Makers building prototypes, testing, and sharing improvements:** We consider you **core collaborators**. Your practical work to validate and advance this design is not considered "commercial use" in our view. We want to see your builds and learn from your results.
-3.  **For Teams or Startups with clear commercial interests:** We welcome you too! The "NonCommercial" clause is not meant to stop innovation but to ensure fair collaboration. **If you have a serious plan to develop a product or service based on this project, please contact us directly at [github].** We are happy to discuss granting a specific, free commercial-use license. Our mission is to see this idea materialize, not to create unnecessary barriers.
-
-Let's build the future, together.
-
----
-
 ### 1. Executive Summary: The Industrialization of Discovery
 
 "Infinite Alchemy" is a breakthrough in materials R&D, shifting from "stochastic experimentation" to "deterministic physical scanning." By coupling ultra-high-speed centrifugal forces with asymmetric thermal gradients, the system digitizes the periodic table’s potential.
@@ -257,21 +228,6 @@ If a concept is fundamentally powerful, it should bear fruit even in its crudest
     Inspect the interior. You will see a **continuous physical record** of your material's state across the applied gradients.
     *   **Where it melted and re-solidified** = Phase transition boundary at that specific (T, P) coordinate.
     *   **Changes in crystal structure, texture, or color** along the tube = A direct visual map of material properties vs. conditions.
-
-**The Declaration:**
-
-This is Day One evidence.  
-We did not build a robot. We built a question. The question is: **"If a $100 setup can generate a continuous map of material behavior in hours, what is the multi-million-dollar lab with its one-at-a-time 'alchemy' actually optimizing for?"**  
-We are not open-sourcing a product. We are open-sourcing a **provocation**.  
-Replicate this. Improve it. Or use the data from this crude pipe to challenge the very foundation of iterative materials discovery.  
-The revolution starts not when it's polished, but when it works.
-
-Please proceed with your discussions in confidence. After all, the landscape of common materials and their combinations is vast. Even the first pioneer can only generate, at most, a hundred continuous and complete phase diagrams in a single day. We still have ample time.
-
----
-
-**Format:**
-> [ZengHao], *Infinite Alchemy: The Multi-Dimensional Spatiotemporal Scanning Engine*, GitHub Repository, 2026.
 
 
 ---
@@ -400,20 +356,6 @@ Please proceed with your discussions in confidence. After all, the landscape of 
 
 ---
 
-**关于项目许可证的友好说明**
-
-为保护开放探索的精神，本项目采用 **知识共享 署名-非商业性-相同方式共享 4.0 (CC BY-NC-SA 4.0)** 许可证。我们的主要目的是防止大型商业实体在无需贡献的情况下，将这一社区驱动的想法专利化或垄断。
-
-**然而，对于我们的建造者同伴和先驱们，我们的立场是开放且鼓励的：**
-
-1.  **致个人、学者、研究员和爱好者：** 我们热忱欢迎您将本设计用于学习、研究和个人项目，可以自由使用、修改和构建。
-2.  **致那些正在构建原型、进行测试和分享改进的开发者与创客：** 我们将您视为 **核心合作者**。您为验证和推进此设计所做的实践工作，在我们看来不属于“商业用途”。我们渴望看到您的构建成果，并从您的经验中学习。
-3.  **致有明确商业意向的团队或初创公司：** 我们同样欢迎您！“非商业性”条款的目的并非阻止创新，而是为了确保公平协作。**如果您有基于本项目开发产品或服务的具体计划，请直接通过 [github] 联系我们。** 我们很乐意讨论并授予一项特定的、免费的商业使用许可。我们的使命是让想法变为现实，而非设置不必要的障碍。
-
-让我们，共同构建未来。
-
----
-
 ### 1. 执行摘要：物质发现的工业化革命
 
 “无限炼金”项目通过将高速离心物理与非对称热场耦合，将材料研发从“盲目试错”转变为“确定性物理扫描”。它不仅是一台机器，更是对元素周期表潜能的数字化扫描仪。
@@ -524,20 +466,6 @@ Please proceed with your discussions in confidence. After all, the landscape of 
     *   **哪里熔化并重新凝固** = 那个特定（温度，压力）坐标下的相变边界。
     *   **沿钢管晶体结构、纹理或颜色的变化** = 材料性能随条件变化的直接视觉图谱。
 
-**行动宣言：**
-
-这是第一天的证据。  
-我们造的不是一个机器人，而是一个质问。这个质问是：**“如果一个价值100美金的装置能在几小时内生成材料行为的连续图谱，那么那些耗资数百万、一次只做一个‘炼金’实验的实验室，究竟在优化什么？”**  
-我们开源的不是一个产品，而是一个**挑衅**。  
-复制它。改进它。或者用这根粗糙钢管里产出的数据，去挑战迭代式材料发现整个范式的基础。  
-革命，始于其可行之时，而非完美之日。
-
-请放心的进行研讨，毕竟常见的材料与组合数量浩瀚，即便是第一个探索者，一天之内也仅能生成上百张连续的完整相图。我们的时间，依然充裕。
-
----
-
-**Format:**
-> [曾皓], *Infinite Alchemy: The Multi-Dimensional Spatiotemporal Scanning Engine*, GitHub Repository, 2026.
 
 ---
 ## ⚠️ 免责声明 / Disclaimer

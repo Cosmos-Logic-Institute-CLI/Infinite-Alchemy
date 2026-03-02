@@ -7,6 +7,9 @@
 
 [Read in English](#infinite-precision) | [跳转到中文](#无限炼金)
 
+https://doi.org/10.5281/zenodo.18616710
+某些人的“方向一致”是否需要遵守协议呢？不需要遵守的话其实也可以撤回发表了，学术真是过于端正了，我会假装没看见“暂时”原谅你们，至于说没看见引用，请直接把当前页面链接与doi放进去，最后，希望不要让我主动去发邮件。
+
 ---
 
 > **"Infinite Alchemy" transcends its physical manifestation; it is a fundamental methodology and a novel cognitive paradigm. This framework can be seamlessly integrated into experimental architectures across material science, synthetic chemistry, pharmacology, and synthetic biology, shifting the research focus from stochastic trial-and-error to systematic spatiotemporal scanning.**
